@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sbaroiionutalexandru@gmail.com**
 
-- ⚡ The technologies that I am very familiar with are **.NET framework(Entity, Dapper), SQL Server, Azure Storage, Blazor( Blazorise)**, Javascript, Angular, SQL Server
+- ⚡ The technologies that I am very familiar with are **.NET framework(Entity, Dapper), SQL Server, Azure Storage, Blazor( Blazorise)**, Javascript, Angular, the technologies that I am still learning: MongoDb, NodeJs, React, PythonNotebooks
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
